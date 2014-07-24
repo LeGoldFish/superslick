@@ -1,0 +1,11 @@
+1 0.8 1
+
+1. Number of nodes to look ahead in lap tracking.
+2. // Ratio by which dir arrow should point along track regardless of position.
+// 0.0 gives an arrow based on pos alone, which is poor on wide tracks.
+// 1.0 gives an arrow based on the direction of lap tracking points,
+// which doesn't react to the car position and so feels a little 'dumb'.
+// Also, imperfections in placing the lap tracking points will cause the
+// arrow to shake around a bit if the value is too near 1.0.
+3. Turn on checkpoints for speedway (dodgy hack).
+

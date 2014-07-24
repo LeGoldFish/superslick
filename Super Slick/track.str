@@ -1,0 +1,106 @@
+de2 filename = SS.de2
+sky colour = {8,16,24}
+fog start = 10000.000000
+fog stop = 70000.000000
+texel target = 4096
+d3d texture 256 = 0.480000
+d3d texture 128 = 0.210000
+d3d texture 64 = 0.080000
+d3d texture 32 = 0.080000
+d3d texture alpha = 3
+exclusion file = exclude.txt
+length = 3/8
+banking = 10
+practice cost = 60
+show watertruck = 1
+dry out factor = 2.000000
+dtr1 = 0
+
+[display names]
+
+english = Super Slick Spdwy
+
+[short display names]
+
+english = Spr Slck Spdwy
+
+[rolling start]
+
+left fraction = 0.475000
+right fraction = 0.595000
+forward spacing = 60.000000
+speed = 100.000000
+time = 7.000000
+car width = 2
+movement lookahead = 160.000000
+facing lookahead = 220.000000
+production difficulty = 1.000000
+
+[yellow flag]
+
+fraction = 0.650000
+spacing = 40.000000
+speed = 100.000000
+movement lookahead = 100.000000
+facing lookahead = 300.000000
+
+[AI lap times]
+
+best sim mean = 14.300000
+worst sim mean = 15.800000
+best arcade mean = 14.300000
+worst arcade mean = 15.800000
+best std dev = 0.035231
+worst std dev = 0.252310
+race difficulty = 1.000000
+pure difficulty = 1.019000
+prod difficulty = 1.003000
+arcade difficulty = 0.750000
+arcade mod = 0.790000
+prod arcade difficulty = 0.705000
+prod arcade mod = 0.830000
+pure arcade difficulty = 0.745000
+pure arcade mod = 0.700000
+
+[Grip]
+
+Pos = {0.000000,0.000000}
+Start Angle = 0.250000
+Angle = {0.000000,0.050000,0.100000,0.150000,0.350000,0.400000,0.450000,0.500000,0.550000,0.600000,0.650000,0.850000,0.900000,0.950000}
+Inner Radius = {631.900024,552.099976,435.099976,337.700012,372.200012,483.200012,568.700012,614.000000,545.099976,430.200012,337.100006,371.200012,484.500000,598.299988}
+Outer Radius = {716.000000,642.799988,527.200012,429.900024,467.900024,577.000000,668.500000,696.700012,629.099976,524.099976,429.099976,466.799988,578.099976,682.400024}
+Inner Grip = {1.065000,1.065000,1.065000,1.030000,1.030000,1.065000,1.065000,1.065000,1.065000,1.065000,1.030000,1.030000,1.065000,1.065000}
+Outer Grip = {1.135000,1.135000,1.135000,1.050000,1.050000,1.135000,1.135000,1.135000,1.135000,1.135000,1.050000,1.050000,1.135000,1.135000}
+
+[traction information]
+
+default texture = kville_dirt_1
+track texture list = {1.tga,2.tga,3.tga,4.tga,5.tga,6.tga}
+track terrain list = {1tra.tga,2tra.tga,3tra.tga,4tra.tga,5tra.tga,6tra.tga}
+
+[victory lap info]
+
+finish camera pos = {0.000000,70.000000,300.600006}
+fov = 4.399998
+
+[replay info]
+
+tv cameras = {519.982422,18.029360,256.730347,0.000000,116.140450,6.657206,679.652954,0.000000,-499.209290,12.651567,410.123932,0.000000,-284.418396,24.460539,-560.627441,0.000000,477.987885,30.808130,-475.884155,0.000000}
+
+[high scores Pro Stock]
+
+names = {Ratbag}
+times = {2000}
+skins = {""}
+
+[high scores Late Model]
+
+names = {Player,Player,Player,Player,Player,Player,Player,Player}
+times = {1317,1317,1317,1317,1319,1319,1319,1321}
+skins = {Gen 5 Swartz 2,Gen 5 Swartz 2,Gen 5 Swartz 2,Gen 5 Swartz 2,Gen 5 Swartz 2,Gen 5 Swartz 2,Gen 5 Swartz 2,Gen 5 Swartz 2}
+
+[high scores Concept Modified]
+
+names = {GLD_007,GLD_007,GLD_007,Player,GLD_007,Player,Ratbag,Raymond}
+times = {1359,1370,1433,1437,1442,1457,1700,9467}
+skins = {SDC Beta5 testcar,SDC Beta5 testcar,SDC Beta5 testcar,Tony Stewart Mod,SDC Beta5 testcar,Donnie Corellis,"",Steve Paine}

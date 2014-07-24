@@ -1,0 +1,99 @@
+[texture]
+name feral max texture.3df
+weighting 8.0
+[texture_end]
+
+[texture]
+name mustang texture.3df
+weighting 8.0
+[texture_end]
+
+[texture]
+name exotic_car_texture.3df
+weighting 8.0
+[texture_end]
+
+[texture]
+name orcmobile_texture.3df
+weighting 8.0
+[texture_end]
+
+[texture]
+name 1.3df
+shoomp
+[texture_end]
+
+[texture]
+name 2.3df
+shoomp
+[texture_end]
+
+[texture]
+name 3.3df
+shoomp
+[texture_end]
+
+[texture]
+name 4.3df
+shoomp
+[texture_end]
+
+[texture]
+name max1024x768_b.3df
+tacho
+[texture_end]
+
+[texture]
+name max640x480_b.3df
+tacho
+[texture_end]
+
+[texture]
+name exotic1024x768_b.3df
+tacho
+[texture_end]
+
+[texture]
+name exotic640x480_b.3df
+tacho
+[texture_end]
+
+[texture]
+name mustang1024x768_b.3df
+tacho
+[texture_end]
+
+[texture]
+name mustang640x480_b.3df
+tacho
+[texture_end]
+
+[texture]
+name orc1024x768_b.3df
+tacho
+[texture_end]
+
+[texture]
+name orc640x480_b.3df
+tacho
+[texture_end]
+
+[texture]
+name font_set_1.3df
+font_text
+[texture_end]
+
+[texture]
+name playerid.3df
+playerid
+[texture_end]
+
+[texture]
+name bt_tx_background.3df
+weighting 8.0
+[texture_end]
+
+[texture]
+name bt_tx_background_tile.3df
+weighting 8.0
+[texture_end]
